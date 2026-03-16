@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Model files (optional – you may want to keep them, but they can be large)
+models/*.pkl
+models/*.json
+
+# Dataset (large, exclude and let users download separately)
+data/raw/*.csv
+data/processed/
+
+# Streamlit secrets (if any)
+.streamlit/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
