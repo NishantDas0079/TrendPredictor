@@ -3,9 +3,9 @@
 [![Apache License 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-FF4B4B)](https://streamlit.io/)
-[![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7)](https://render.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trendpredictor.streamlit.app)
 [![GitHub last commit](https://img.shields.io/github/last-commit/NishantDas0079/TrendPredictor)](https://github.com/NishantDas0079/TrendPredictor)
-[![GitHub repo size](https://img.shields.io/github/repo-size/NishantDas0079/TrendPredictor)](https://github.com/NishantDas0079/TrendPredictor)
+
 
 **TrendPredictor** is an interactive time series forecasting web application built with [Streamlit](https://streamlit.io/) and [Facebook Prophet](https://facebook.github.io/prophet/). It allows users to explore multiple time series, adjust hyperparameters, train models, and detect anomalies—all through a beautiful, modern UI.
 
