@@ -16,7 +16,7 @@ models/*.json
 
 # Dataset (large, exclude and let users download separately)
 data/raw/*.csv
-data/processed/
+!data/raw/sample.csv
 
 # Streamlit secrets (if any)
 .streamlit/
