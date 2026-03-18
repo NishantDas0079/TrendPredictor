@@ -37,7 +37,6 @@
 ## 🚀 Live Demo
 
 🔗 **[Try TrendPredictor here](https://trendpredictor-99nm.onrender.com/)**  
-*(Replace with your actual Render URL once deployed.)*
 
 ---
 
